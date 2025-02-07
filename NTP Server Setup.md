@@ -47,3 +47,22 @@ Make the following changes:
   makestep 1.0 3
   ```
 <button onclick="navigator.clipboard.writeText('makestep 1.0 3')">📋 Copy</button>
+
+### **3. Restart Chrony and Enable It**
+```bash
+sudo systemctl restart chronyd
+sudo systemctl enable chronyd
+```
+<button onclick="navigator.clipboard.writeText('sudo systemctl restart chronyd\nsudo systemctl enable chronyd')">📋 Copy</button>
+
+### **4. Open Firewall for NTP (If Enabled)**
+```bash
+sudo ufw allow 123/udp  # Ubuntu/Debian
+```
+<button onclick="navigator.clipboard.writeText('sudo ufw allow 123/udp')">📋 Copy</button>
+
+```bash
+sudo firewall-cmd --add-service=ntp --permanent  # CentOS/RHEL
+sudo firewall-cmd --reload
+```
+<button onclick="navigator.clipboard.writeText('sudo firewall-cmd --add-service=ntp --permanent\nsudo firewall-cmd --reload')">📋 Copy</button>
