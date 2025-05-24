@@ -16,7 +16,7 @@ This repository provides step-by-step instructions and configuration files for s
 
 ---
 
-## 📝 Overview
+## Overview
 
 This project demonstrates how to:
 
