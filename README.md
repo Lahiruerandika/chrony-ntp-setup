@@ -24,3 +24,11 @@ This project demonstrates how to:
 - Two Linux machines (e.g., CentOS, RHEL, Ubuntu, or Debian).
 - Root or sudo access on both machines.
 - Basic knowledge of the terminal and network configuration.
+
+## 📘 Full Setup Guide
+
+See the full setup instructions in [`NTP Server Setup.md`](NTP%20Server%20Setup.md):
+
+- [Step 1: Configure the NTP Server](NTP%20Server%20Setup.md#step-1-configure-the-ntp-source-server-primary-server)
+- [Step 2: Configure the Syncing Client](NTP%20Server%20Setup.md#step-2-configure-the-syncing-client-secondary-server)
+- [Step 3: Testing & Troubleshooting](NTP%20Server%20Setup.md#step-3-testing--troubleshooting)
