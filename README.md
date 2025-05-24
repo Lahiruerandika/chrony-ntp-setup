@@ -26,7 +26,7 @@ This project demonstrates how to:
 
 ---
 
-## ⚙️ Prerequisites
+## Prerequisites
 
 - Two Linux machines (e.g., CentOS, RHEL, Ubuntu, or Debian).
 - Root or sudo access on both machines.
