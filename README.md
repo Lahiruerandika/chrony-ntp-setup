@@ -6,13 +6,6 @@ This repository provides step-by-step instructions and configuration files for s
 
 - [Overview](#overview)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-  - [Chrony Server Setup](#chrony-server-setup)
-  - [Chrony Client Setup](#chrony-client-setup)
-- [Verifying Time Synchronization](#verifying-time-synchronization)
-- [Useful Commands](#useful-commands)
-- [License](#license)
 
 ---
 
